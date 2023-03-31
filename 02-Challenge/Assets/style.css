@@ -1,0 +1,56 @@
+* {
+    background-color: rgb(42, 221, 245);
+
+}
+
+.Timer {
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+}
+
+.Head{
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.Questions {
+    
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+.Questions2 {
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.Answers {
+    display:grid;
+    margin: 25px;
+    padding: 10px;
+    position:relative;
+    bottom: 18%;
+    row-gap: 10px;
+    border: solid;
+    border-radius: 5px;
+    border-color: black;
+    
+}
+.Answers2:hover {
+    cursor: pointer;
+    background-color: darkgrey;
+    
+}
+
+.START:hover {
+    font-size: 20px;
+    background-color: gold;
+    cursor: pointer;
+
+}

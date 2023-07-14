@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(42, 221, 245);
+    background-color: rgb(18, 58, 63);
 
 }
 
@@ -50,7 +50,7 @@ font-weight: bold;
 
 .START:hover {
     font-size: 20px;
-    background-color: gold;
+    background-color: rgb(129, 113, 22);
     cursor: pointer;
 
 }

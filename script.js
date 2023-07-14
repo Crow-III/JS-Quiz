@@ -30,8 +30,9 @@ setNextQuestion()
 
 
 function setNextQuestion() {
-showQuestion(shuffledQuestions[currentQuestionIndex])
 resetState()
+showQuestion(shuffledQuestions[currentQuestionIndex])
+
 }
 
 
@@ -54,6 +55,8 @@ function resetState() {
     while (answerButtonsElement.firstChild) {
         answerButtonsElement.removeChild
         (answerButtonsElement.firstChild)
+        
+        
     }
 }
 

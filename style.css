@@ -1,7 +1,4 @@
-* {
-    background-color: rgb(18, 58, 63);
 
-}
 
 .Timer {
 text-align: center;
@@ -50,7 +47,7 @@ font-weight: bold;
 
 .START:hover {
     font-size: 20px;
-    background-color: rgb(129, 113, 22);
+    background-color: rgba(119, 64, 64, 0.445);
     cursor: pointer;
 
 }
